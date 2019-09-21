@@ -3,4 +3,8 @@ change the code in clone
 
 1) change the code in clone
 2) workbranch has been here.
+<<<<<<< HEAD
 master do change.
+=======
+3) test1 is comming.
+>>>>>>> test1
